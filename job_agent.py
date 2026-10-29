@@ -54,6 +54,7 @@ COMPANIES = [
     "BCG (Boston Consulting Group, including BCG X)",
     "Prolaio",
     "Netflix",
+    "HERE Technologies",
 ]
 
 ROLE_TITLES = ["Data Scientist", "Applied Scientist"]
